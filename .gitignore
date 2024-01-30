@@ -1,0 +1,7 @@
+vendor/
+.vscode/
+node_modules/
+.DS_Store
+*.zip
+*.tar.gz
+config/config.ini
